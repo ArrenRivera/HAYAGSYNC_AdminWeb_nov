@@ -1,0 +1,2 @@
+[functions.append-roster]
+verify_jwt = true
